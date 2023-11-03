@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Optional: add other files and folders you want to ignore
+# like environment variables, logs, and build artifacts
+
+.env
+*.log
+/dist
